@@ -3,8 +3,7 @@
 
 ![Screenshot 2024-02-08 040632](https://github.com/xesdoog/YimActions/assets/66764345/9bdde22d-0efa-4d6c-8385-6c0be1d79a99)
 
-![YimActions-modified](https://github.com/xesdoog/YimActions/assets/66764345/1ee2afb0-cf41-47d1-bfa5-cdcbf222025a)
-
+![YimActions-modified](https://github.com/YimMenu-Lua/YimActions/assets/66764345/d6628ede-4a83-4f0e-a901-3ae648794f58)
 
 ![YimActions(4)](https://github.com/xesdoog/YimActions/assets/66764345/e26f12c0-d1de-41ea-a2c1-df23c79deb8b)
 
