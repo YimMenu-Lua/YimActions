@@ -16,13 +16,14 @@
 
 ## Credits:
 
-[ShinyWasabi](https://github.com/ShinyWasabi) 
-Taught me how to write a proper search function that disables game input while typing. Thank you! ❤️
+- [ShinyWasabi](https://github.com/ShinyWasabi) 
+   - Taught me how to write a proper [search function](https://www.unknowncheats.me/forum/3979688-post5.html) that disables game input while typing. Thank you! ❤️
 
-[Lonelybud](https://github.com/lonelybud) 
-Taught me how not to crash the game everytime I pressed a button 😭 I had no idea what the fiber pool was...
+- [Lonelybud](https://github.com/lonelybud) 
+   - Taught me how not to crash the game everytime I pressed a button 😭 I had no idea what the [fiber pool](https://github.com/YimMenu-Lua/SAMURAI-Scenarios/issues/1) was...
 
-[Deadlineem](https://github.com/deadlineem) Gave useful feedback on scenarios and also was there whenever I asked for insight in UC forum.
+- [Deadlineem](https://github.com/deadlineem)
+   - Gave useful feedback on scenarios and also was there whenever I asked for insight in UC forum.
 
-[Harmless](https://github.com/Harmless05) 
-Wrote a very neat config system for [Harmless's Scripts](https://github.com/YimMenu-Lua/Harmless-Scripts). So neat in fact that I stole it 😸
+- [Harmless](https://github.com/Harmless05) 
+   - Wrote a very neat config system for [Harmless's Scripts](https://github.com/YimMenu-Lua/Harmless-Scripts). So neat in fact that I stole it! 😸
