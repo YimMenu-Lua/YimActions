@@ -12,7 +12,7 @@
 
 ## Setup:
 
-1. Go to the [Releases](https://github.com/YimMenu-Lua/YimActions/releases) tab and download the latest version of YimActions.
+1. Go to the [Releases](https://github.com/xesdoog/YimActions/releases) tab and download the latest version of YimActions.
 2. Unzip the archive and place both **YimActions.lua** and **animdata.lua** in YimMenu's scripts folder which is located at **%AppData%\YimMenu\scripts**
 
 ## Usage:
@@ -48,7 +48,7 @@
 ## Known Issues:
 
 - Some particle effects are not visible to other players. I will probably fix them later but I'm quickly losing passion.
-- If an animation has props and you play it both on yourself and on a spawned NPC, only one prop will spawn.
+- ~If an animation has props and you play it both on yourself and on a spawned NPC, only one prop will spawn.~ **FIXED**.
 - If you are not host of the session, you will randomly lose control over some spawned NPCs if you spawn more than one or two. Those NPCs will not follow you anymore and you can no longer delete them using the script.
 
 ## Credits:
